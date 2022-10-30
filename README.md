@@ -1,2 +1,3 @@
 # premier_league_predictor
-scrape premier league data &amp; use it to predict win / loose
+
+Scraping premier league data &amp; using it with Random Forrest to predict win. model is focused on predicting a win, not won/ lost/ draw..
